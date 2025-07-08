@@ -147,618 +147,147 @@ screen.
 <img src="https://github.com/JosephRC777/post-install-config/blob/da67d92ce6678d837cd4444e15787fa067ff9904/images/osticket%20post%20installation%2019.png" width="600" height="400" />
 
 
-Configure Agents (workers)
+<h2>Configure Agents (workers)</h2>
 
 New “Agents” will now be added and configured. These accounts will be working and resolving the tickets. To begin, Click on “Admin Panel” on the top right corner of the screen then click on the “Agents” tab near the top right. Afterwards, click on “Add New Agent” in the access bar below “Agents”. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://github.com/JosephRC777/post-install-config/blob/441d361a6abe86e05fbcdd7fbab56f57773f42f1/images/osticket%20post%20installation%2020.png" width="600" height="400" />
 
 
 
 Within the “Add New Agent” section, there are 4 tabs where information can be added. Under the “accounting” tab the following information can be added; Name, email address, phone number, mobile number and username. For this tutorial demonstration the agents “Jane” and “John” will be created. In the text box next to “Name:”, type in the agent's first and last name and in the textbox next to “Email Address:” type in the email address that the agent will use to work within osTicket. 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://github.com/JosephRC777/post-install-config/blob/441d361a6abe86e05fbcdd7fbab56f57773f42f1/images/osticket%20post%20installation%2021.png" width="600" height="400" />
 
 
 
 Under the “Authentication” section, there is a textbox next to “Username:”. In this textbox, the user name of the agent will be typed in. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://github.com/JosephRC777/post-install-config/blob/441d361a6abe86e05fbcdd7fbab56f57773f42f1/images/osticket%20post%20installation%2022.png" width="600" height="400" />
 
 
 Click on “Set Password” next to the username textbox. 
 
+<img src="https://github.com/JosephRC777/post-install-config/blob/441d361a6abe86e05fbcdd7fbab56f57773f42f1/images/osticket%20post%20installation%2023.png" width="600" height="400" />
 
 
+Within this “Set Agent Password”  screen, uncheck the checkbox next to “Send the agent a password reset email”. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Within this “Set Agent Password”  screen, uncheck the checkbox next to “Send the 
-agent a password reset email”. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://github.com/JosephRC777/post-install-config/blob/441d361a6abe86e05fbcdd7fbab56f57773f42f1/images/osticket%20post%20installation%2024.png" width="600" height="400" />
 
 
 Once clicked, two empty textboxes will pop up. The password for this account can now be typed in and confirmed. There is an option to have the user change their password at the next login on the bottom left. For this tutorial, this checkbox will remain uncheked. Afterwards, click on “Set” in the bottom right hand corner.  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://github.com/JosephRC777/post-install-config/blob/441d361a6abe86e05fbcdd7fbab56f57773f42f1/images/osticket%20post%20installation%2025.png" width="600" height="400" />
 
 
 Once completed, the window will close and the “Account” tab will show up again. The “Status and Settings” section will be left as is for this tutorial. Click on the “Access” tab next to “Account”. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://github.com/JosephRC777/post-install-config/blob/441d361a6abe86e05fbcdd7fbab56f57773f42f1/images/osticket%20post%20installation%2026.png" width="600" height="400" />
 
 
 
 Within the “Access” tab, the department and role can be set up per agent. The created agent “Jane” will be a part of the “SysAdmins” and her role will be “Supreme Admin”. The “Permissions” section will be left as is for this tutorial. Click on the “Teams” tab next to “Permissions”. 
 
+<img src="https://github.com/JosephRC777/post-install-config/blob/441d361a6abe86e05fbcdd7fbab56f57773f42f1/images/osticket%20post%20installation%2027.png" width="600" height="400" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://github.com/JosephRC777/post-install-config/blob/441d361a6abe86e05fbcdd7fbab56f57773f42f1/images/osticket%20post%20installation%2028.png" width="600" height="400" />
 
 
 
 Within the “Teams” tab, the agents can be assigned to teams. Any ticket that gets assigned to the designated team can be seen and worked on by any agent that is in that team. Agent “Jane” will be assigned to the “Online Banking” team. After the team has been assigned, click on “Create” on the bottom of the screen. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://github.com/JosephRC777/post-install-config/blob/441d361a6abe86e05fbcdd7fbab56f57773f42f1/images/osticket%20post%20installation%2029.png" width="600" height="400" />
 
 
 If everything was done correctly, “Jane” will now appear under the agents section. 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://github.com/JosephRC777/post-install-config/blob/441d361a6abe86e05fbcdd7fbab56f57773f42f1/images/osticket%20post%20installation%2030.png" width="600" height="400" />
 
 All of the above steps can now be followed to create new agents. The agent “John” will be created following all of the above steps. 
 
-Configure Users (customers)
+<h2>Configure Users (customers)</h2>
 
 Users will now be created within osTicket. Click on “Agent Panel” on the top right corner of the screen then click on the “Users” tab near the top right. Afterwards, click on “Add User” in the access bar below “Users”. 
 
+<img src="https://github.com/JosephRC777/post-install-config/blob/441d361a6abe86e05fbcdd7fbab56f57773f42f1/images/osticket%20post%20installation%2031.png" width="600" height="400" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://github.com/JosephRC777/post-install-config/blob/441d361a6abe86e05fbcdd7fbab56f57773f42f1/images/osticket%20post%20installation%2032.png" width="600" height="400" />
 
 
 A “Lookup or create a user” screen will pop-up. Within this screen, you can set an email address, type in a full name and provide a phone number for a user account. For this tutorial the user “ken” will be created. Type in an email the user will use in the textbox next to “Email Address:”. In the textbox next to “Full Name:” type in the user's full name. The phone number section will be left blank. After all the fields have been filled, click on “Add User” on the bottom right hand corner of the screen. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://github.com/JosephRC777/post-install-config/blob/441d361a6abe86e05fbcdd7fbab56f57773f42f1/images/osticket%20post%20installation%2033.png" width="600" height="400" />
 
 
 
 The user will now appear under the ”Users” section within osTicket.
 
+<img src="https://github.com/JosephRC777/post-install-config/blob/441d361a6abe86e05fbcdd7fbab56f57773f42f1/images/osticket%20post%20installation%2034.png" width="600" height="400" />
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-Configure SLA
+<h2>Configure SLA</h2>
 
 SLAs will now be configured. SLAs are formal agreements that define the expected response and resolution times for support tickets. This is based on their priority and the severity of the ticket. To begin, Click on “Admin Panel” on the top right corner of the screen then click on the “Manage” tab near the middle of the screen. Afterwards, click on “SLA” in the access bar below “Manage”. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://github.com/JosephRC777/post-install-config/blob/441d361a6abe86e05fbcdd7fbab56f57773f42f1/images/osticket%20post%20installation%2035.png" width="600" height="400" />
 
 
 Click on “Add New SLA Plan” on the right hand corner of the screen. 
 
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://github.com/JosephRC777/post-install-config/blob/441d361a6abe86e05fbcdd7fbab56f57773f42f1/images/osticket%20post%20installation%2036.png" width="600" height="400" />
 
 Within this screen, you can name SLAs, determine whether it will be active or disabled, provide a grace period and a schedule. For this tutorial the following SLAs will be created with the appropriate grace period and schedule:
 
-	Sev-A (Grace Period: 1 hour, Schedule: 24/7)
-Sev-B (Grace Period: 4 hours, Schedule: 24/7)
-Sev-C (Grace Period: 8 hours, Business Hours)
+- Sev-A (Grace Period: 1 hour, Schedule: 24/7)
+- Sev-B (Grace Period: 4 hours, Schedule: 24/7)
+- Sev-C (Grace Period: 8 hours, Business Hours)
 
 In the textbox next to “Name”, type in the name of the SLA. All of the above SLAs will be active. In the textbox next to “Grace Period”, type in the number of hours that the ticket needs to be resolved within. In the schedule dropdown menu, select the appropriate time frame when this ticket would be resolved. After all of these fields have been filled, click on “Add Plan” on the bottom of the screen. 
 
+<img src="https://github.com/JosephRC777/post-install-config/blob/441d361a6abe86e05fbcdd7fbab56f57773f42f1/images/osticket%20post%20installation%2037.png" width="600" height="400" />
 
+<img src="https://github.com/JosephRC777/post-install-config/blob/441d361a6abe86e05fbcdd7fbab56f57773f42f1/images/osticket%20post%20installation%2038.png" width="600" height="400" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://github.com/JosephRC777/post-install-config/blob/441d361a6abe86e05fbcdd7fbab56f57773f42f1/images/osticket%20post%20installation%2039.png" width="600" height="400" />
 
 
 Now that these SLAs have been created, tickets can be given a proper priority for completion.
 
 
 
-Configure Help Topics
+<h2>Configure Help Topics</h2>
 
 Help topics will now be configured. Help topics will help in further categorizing tickets and filtering them to make sure they are resolved efficiently. To begin, To begin, Click on “Admin Panel” on the top right corner of the screen then click on the “Manage” tab near the middle of the screen. Afterwards, click on “Help Topics” in the access bar below “Manage”. 
 
-
-
-
-
-
-
+<img src="https://github.com/JosephRC777/post-install-config/blob/441d361a6abe86e05fbcdd7fbab56f57773f42f1/images/osticket%20post%20installation%2040.png" width="600" height="400" />
 
 
 Click on “Add New Help Topic” on the right hand corner of the screen
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://github.com/JosephRC777/post-install-config/blob/441d361a6abe86e05fbcdd7fbab56f57773f42f1/images/osticket%20post%20installation%2041.png" width="600" height="400" />
 
 Within this section, you can name help topics, select the status for the help topics (for this tutorial all of the topics will be active), determine whether these topics will be public or private, and select a parent topic that it can be under. For this tutorial the following help topics will be created. 
 
-Business Critical Outage
-Personal Computer Issues
-Equipment Request
-Password Reset
-Other
-
-
+- Business Critical Outage
+- Personal Computer Issues
+- Equipment Request
+- Password Reset
+- Other
+  
 In the textbox next to “Topic”, type in the name of the help topic. All of the above help topics will have their status as active, they will also have the type be public. In the “Parent Topic” dropdown menu, select the appropriate parent topic where the created topic would be under. After all of these fields have been filled, click on “Add Topic” on the bottom of the screen. 
 
 
+<img src="https://github.com/JosephRC777/post-install-config/blob/441d361a6abe86e05fbcdd7fbab56f57773f42f1/images/osticket%20post%20installation%2042.png" width="600" height="400" />
 
+<img src="https://github.com/JosephRC777/post-install-config/blob/441d361a6abe86e05fbcdd7fbab56f57773f42f1/images/osticket%20post%20installation%2043.png" width="600" height="400" />
 
+<img src="https://github.com/JosephRC777/post-install-config/blob/441d361a6abe86e05fbcdd7fbab56f57773f42f1/images/osticket%20post%20installation%2044.png" width="600" height="400" />
 
+<img src="https://github.com/JosephRC777/post-install-config/blob/441d361a6abe86e05fbcdd7fbab56f57773f42f1/images/osticket%20post%20installation%2045.png" width="600" height="400" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://github.com/JosephRC777/post-install-config/blob/441d361a6abe86e05fbcdd7fbab56f57773f42f1/images/osticket%20post%20installation%2046.png" width="600" height="400" />
 
 
 
