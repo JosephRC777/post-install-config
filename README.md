@@ -55,107 +55,33 @@ Within this “Roles” section, a “Supreme Admin” role will be created. To 
 <img src="https://github.com/JosephRC777/post-install-config/blob/c251658b0be857c42e0f065b7baa381614ed74f6/images/osticket%20post%20installation%204.png" width="600" height="400" />
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 A “Definition” tab will pop-up. Within this section you can name the role. For this demonstration “Supreme Admin” will be the name for this role. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://github.com/JosephRC777/post-install-config/blob/da67d92ce6678d837cd4444e15787fa067ff9904/images/osticket%20post%20installation%205.png" width="600" height="400" />
 
 
 After naming the role, the “Permissions” tab can be clicked to assign the correct permissions to the role.There are 3 sections of permissions, Tickets, Tasks, and knowledgebase.   For the “Supreme Admin” role, all the permissions will be enabled. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://github.com/JosephRC777/post-install-config/blob/da67d92ce6678d837cd4444e15787fa067ff9904/images/osticket%20post%20installation%206.png" width="600" height="400" />
 
 
 After permissions have been granted, click on “Add Role” on the bottom of the screen. The role has now been created and can be seen within the “Roles” section. 
 
+<img src="https://github.com/JosephRC777/post-install-config/blob/da67d92ce6678d837cd4444e15787fa067ff9904/images/osticket%20post%20installation%207.png" width="600" height="400" />
 
+<img src="https://github.com/JosephRC777/post-install-config/blob/da67d92ce6678d837cd4444e15787fa067ff9904/images/osticket%20post%20installation%208.png" width="600" height="400" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Configure Departments 
+<h2>Configure Departments</h2> 
 
 Departments will now be configured within osTicket to make ticket assignment easier and more efficient. Return back to the “Admin Panel” and click on “Agents” near the top right. Afterwards, click on “Department” in the access bar below “Agents”. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://github.com/JosephRC777/post-install-config/blob/da67d92ce6678d837cd4444e15787fa067ff9904/images/osticket%20post%20installation%209.png" width="600" height="400" />
 
 
 
 Click on “Add New Department” on the right corner of the screen.
 
-
+<img src="https://github.com/JosephRC777/post-install-config/blob/da67d92ce6678d837cd4444e15787fa067ff9904/images/osticket%20post%20installation%2010.png" width="600" height="400" />
 
 
 
@@ -170,35 +96,7 @@ Click on “Add New Department” on the right corner of the screen.
 
 A “Settings” screen will pop up. Within this section you can name the department as well as set other settings. For this demonstration, this new department will be named “SysAdmins”. Type in the name in the textbox next to “Name:” All of the other settings for this department will be kept as they are. After naming the department, click on the “Access” tab on the top of the screen. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://github.com/JosephRC777/post-install-config/blob/da67d92ce6678d837cd4444e15787fa067ff9904/images/osticket%20post%20installation%2011.png" width="600" height="400" />
 
 
 
@@ -206,150 +104,39 @@ A “Settings” screen will pop up. Within this section you can name the depart
 
 Nothing will be changed within the “Access” tab for this department. Click on “Create Dept” on the bottom of the screen. The department has been created and can be seen Within the “Departments” section.
 
+<img src="https://github.com/JosephRC777/post-install-config/blob/da67d92ce6678d837cd4444e15787fa067ff9904/images/osticket%20post%20installation%2012.png" width="600" height="400" />
+
+<img src="https://github.com/JosephRC777/post-install-config/blob/da67d92ce6678d837cd4444e15787fa067ff9904/images/osticket%20post%20installation%2013.png" width="600" height="400" />
 
 
 
 
+<h2>Configure Teams</h2>
 
+Teams will now be configured within osTicket to make ticket assignment easier and   more efficient. Return back to the “Admin Panel” and click on “Agents” near the top right. Afterwards, click on “Teams” in the access bar below “Agents”. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- Configure Teams
- Teams will now be configured within osTicket to make ticket assignment easier and   more efficient. Return back to the “Admin Panel” and click on “Agents” near the top right. Afterwards, click on “Teams” in the access bar below “Agents”. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://github.com/JosephRC777/post-install-config/blob/da67d92ce6678d837cd4444e15787fa067ff9904/images/osticket%20post%20installation%2014.png" width="600" height="400" />
 
 
 
 Click on “Add New Team” on the right corner of the screen.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://github.com/JosephRC777/post-install-config/blob/da67d92ce6678d837cd4444e15787fa067ff9904/images/osticket%20post%20installation%2015.png" width="600" height="400" />
 
 
 A “Team” section will pop up. Within this section you can name the team as well as configure other settings. For the purposes of this tutorial the team will be named “Online Banking”. After typing the name in the textbox next to “Name”, leave all the other settings the same then click on “Create Team” on the bottom of the screen. The team has been created and can be seen Within the “Teams” section.
 
+<img src="https://github.com/JosephRC777/post-install-config/blob/da67d92ce6678d837cd4444e15787fa067ff9904/images/osticket%20post%20installation%2016.png" width="600" height="400" />
+
+<img src="https://github.com/JosephRC777/post-install-config/blob/da67d92ce6678d837cd4444e15787fa067ff9904/images/osticket%20post%20installation%2017.png" width="600" height="400" />
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Allow anyone to create tickets
+<h2>Allow anyone to create tickets</h2>
 
 Permission to create tickets will be given to everyone without the need of an account. Return back to the “Admin Panel” and click on “Settings” near the top left. Afterwards, click on “Users” in the access bar below “Settings”. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://github.com/JosephRC777/post-install-config/blob/da67d92ce6678d837cd4444e15787fa067ff9904/images/osticket%20post%20installation%2018.png" width="600" height="400" />
 
 
 
@@ -357,39 +144,7 @@ Permission to create tickets will be given to everyone without the need of an ac
 Within this tab, the checkbox next to “Require registration and login to create tickets” needs to be unchecked. This will allow anyone to create tickets without needing to create an account.  Once unchecked, click on “Save Changes” on the bottom of the 
 screen. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://github.com/JosephRC777/post-install-config/blob/da67d92ce6678d837cd4444e15787fa067ff9904/images/osticket%20post%20installation%2019.png" width="600" height="400" />
 
 
 Configure Agents (workers)
